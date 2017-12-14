@@ -1,1 +1,1 @@
-# An periodic table made in HTML
+# A periodic table made in HTML
